@@ -1,6 +1,6 @@
 # Project Code to Markdown Context
 
-A simple Python script to recursively scan a developer project directory and combine the contents of relevant code/text files into a single Markdown-formatted text file. This output is optimized for pasting into Large Language Model (LLM) prompts as context.
+A simple Python script to recursively scan a developer project directory and combine the contents of relevant code/text files into a single Markdown-formatted text file (most browser-based LLMs can accept .txt files as context, not all can accept .md files). This output is optimized for pasting into Large Language Model (LLM) prompts as context. 
 
 ## Features
 
