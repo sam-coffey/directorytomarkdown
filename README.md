@@ -32,4 +32,4 @@ A simple Python script to recursively scan a developer project directory and com
 **Basic Usage (output to `project_context.txt`):**
 
 ```bash
-python project_to_markdown.py /path/to/your/project
+python directorytomarkdown.py /path/to/your/project
